@@ -1,2 +1,2 @@
 # Ser-Vor-Off.github.io
-Учебник для Git
+Выполнили данное задание в консоли Git Bash
